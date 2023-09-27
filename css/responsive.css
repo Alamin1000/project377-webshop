@@ -77,6 +77,11 @@
         min-height: 120px;
     }
     .pc-info-btn {
+        display: flex;
+        padding: 25px 0;
+        margin: -25px 0;
+      }
+    .pc-info-btn .button-inner {
         height: 24px;
         width: 24px;
         font-size: 12px;
